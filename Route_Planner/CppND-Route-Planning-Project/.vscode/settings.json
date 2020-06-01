@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "optional": "cpp",
+        "algorithm": "cpp",
+        "filesystem": "cpp",
+        "functional": "cpp",
+        "ratio": "cpp",
+        "string_view": "cpp",
+        "*.tcc": "cpp",
+        "system_error": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "memory_resource": "cpp",
+        "numeric": "cpp",
+        "random": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "utility": "cpp",
+        "vector": "cpp"
+    }
+}
